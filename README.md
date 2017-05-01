@@ -1,5 +1,5 @@
-# Basic Project
-## Basic Project Structure
+# calculator-project
+## calculator-project structure
 
 *Default Structure for A Basic Project*
 
